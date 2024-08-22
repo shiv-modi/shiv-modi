@@ -57,4 +57,4 @@ I strongly believe that my diverse range of interests and keen willingness to le
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shivmodi)
 - [Github](https://github.com/shiv-modi)
-![Visitor Count](https://komarev.com/ghpvc/?username=shiv-modi&style=flat-square)
+- ![Visitor Count](https://komarev.com/ghpvc/?username=shiv-modi&style=flat-square)
