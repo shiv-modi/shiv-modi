@@ -52,8 +52,9 @@ With my diverse interests and enthusiasm for learning, I look forward to new opp
 - **Technologies**: Python, Machine Learning, Streamlit, Pandas, NumPy, scikit-learn
 
 ## 📈 My GitHub Stats
-![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv-modi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-modi&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-modi&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiv-modi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv-modi&theme=2077) 
 
 
 ## 📫 Connect with Me
