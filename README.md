@@ -3,11 +3,13 @@
 ## 🚀 About Me
 Hello there!
 
-My name is Shiv Modi, and I am a Computer Science student at Charusat University. I have a strong passion for learning and expanding my knowledge in the fields of Java and Data Structures and Algorithms. I am always eager to explore new opportunities to further enhance my skills and expertise in these areas.
+Hi, I'm Shiv Modi, a Computer Science student at Charusat University. 
 
-Outside of my academic pursuits, I maintain an avid interest in international relations, politics, and historical developments. I am also deeply fascinated by the latest trends and innovations in technology, particularly gadgets and emerging advancements. In my leisure time, I dabble in website development as a personal hobby.
+I have a strong passion for Java and Data Structures and Algorithms, and I'm always eager to learn and grow in these areas. I can adapt to any programming language as needed.
 
-I strongly believe that my diverse range of interests and keen willingness to learn make me a well-rounded individual, excited for the opportunities that lie ahead.
+Beyond academics, I enjoy following international relations, politics, and historical trends. I'm also fascinated by emerging technology and innovations.
+
+With my diverse interests and enthusiasm for learning, I look forward to new opportunities and experiences ahead!
 
 ## 🛠️ My Skills
 - **Programming Languages**: Java, Python
