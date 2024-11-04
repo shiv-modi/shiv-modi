@@ -19,38 +19,6 @@ With my diverse interests and enthusiasm for learning, I look forward to new opp
 - **Operating Systems**: Windows, Linux
 - **Other Relevant Skills**: Data Structures and Algorithms, SQL, Object-oriented programming
 
-## 🏆 Experience
-### Java Developer Intern — CodSoft (May 2024 - June 2024)
-- Built Java projects including a number guessing game, student grade calculator, and ATM simulation.
-- Collaborated with mentors and peers, and presented project demos on LinkedIn.
-- Maintained a GitHub repository for all projects, showcasing version control proficiency.
-
-### Backend Developer Intern — Charotar University, Changa (May 2023 - July 2023)
-- Engineered an admin panel for the Project Management System using PHP, MySQL, JavaScript, HTML, and CSS.
-- Worked with a team of 3 developers to build and deploy the system.
-- Assisted in integrating portals for students, admin, and HOD.
-
-## 💻 Projects
-### Banking Management System (April 2024 – May 2024)
-- Developed a Java-based banking management system with user registration, account management, and transaction functionalities.
-- Utilized Java Swing for the user interface and JDBC for database connectivity.
-- **Technologies**: Java, Swing, JDBC, MySQL
-
-### Hospital Management System (March 2024 – April 2024)
-- Created a Java-based hospital management system for patient records, appointments, and staff management.
-- Applied object-oriented programming principles for system design.
-- **Technologies**: Java, OOP, JDBC, MySQL
-
-### Terminal Music Automation using Selenium (March 2024 - April 2024)
-- Developed an automation script using Selenium WebDriver in Python to interact with YouTube Music.
-- Implemented functionalities to browse music charts, select songs based on country charts, and play songs directly from the terminal.
-- **Technologies**: Python, Selenium, uBlock, Firefox WebDriver
-
-### Movie Recommendation System (Feb 2024 – March 2024)
-- Designed and implemented a Python-based movie recommendation system using machine learning techniques.
-- Developed a user-friendly interface with Streamlit for user interaction.
-- **Technologies**: Python, Machine Learning, Streamlit, Pandas, NumPy, scikit-learn
-
 ## 📈 My GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-modi&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiv-modi&theme=2077)
