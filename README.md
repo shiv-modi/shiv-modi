@@ -14,7 +14,7 @@ With my diverse interests and enthusiasm for learning, I look forward to new opp
 ## 🛠️ My Skills
 - **Programming Languages**: Java, Python
 - **Development Tools**: Git/GitHub, VS Code, IntelliJ, Eclipse, Netbeans IDE, Jupyter Notebook
-- **Frameworks and Libraries**: J2EE, JDBC, Servlet, JSP, MVC, Selenium
+- **Frameworks and Libraries**: J2EE, JDBC, Servlet, JSP, MVC, Selenium, Spring MVC, SpringBoot
 - **Database Management**: MySQL, phpMyAdmin
 - **Operating Systems**: Windows, Linux
 - **Other Relevant Skills**: Data Structures and Algorithms, SQL, Object-oriented programming
